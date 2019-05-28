@@ -1,0 +1,74 @@
+{
+  "profileURL": "https://media.licdn.com/dms/image/C4E03AQGfqdOhOhTuDA/profile-displayphoto-shrink_200_200/0?e=1562803200&v=beta&t=d6LYAko0yg_5OSIQ-0wEPJhCq3BNmb21b-BoIRDwptE",
+  "name": "Carlos Vázquez Gómez",
+  "title": "iOS Engineer",
+  "description": "I am a very enthusiastic developer focused on mobile technologies, I have worked for the brewery, banking, telephony and ecommerce industries. I have been involved in projects from scratch, maintenance and enhancements on the arquitecture. \n\nOne of the most recent events that I am proud of, was be part of an outstanding mobile team who was distinguished with “The best E-commerce application” award in Mexico. Currently I am working from scratch on a street hailing app for the National movement of taxi drivers in Mexico.",
+  "education": {
+    "imageURL": "https://media.licdn.com/dms/image/C560BAQGBxCFxIMzXWA/company-logo_400_400/0?e=1565827200&v=beta&t=T0hr5kvxWJGXe5WhUjBnjgQoJwFzP3Df1wUEPeNDcZM",
+    "university": "IPN UPIICSA",
+    "career": "Informatics Engineering",
+    "period": "2007 - 2011"
+  },
+  "projects": [
+    {
+      "name": "C by GE",
+      "description": "Application from General Electric that let users control their light bulbs and some other gadgets by GE, automate rooms and customize scenes. I am collaborating with a group of iOS engineers from U.S. in improve experience and increase rating on the AppStore by solving bugs, creating new features and proposing better architecture structures. "
+    },
+    {
+      "name": "Nekso Passenger",
+      "description": "Started from scratch a new street hailing application to get rides by mexican taxi drivers and have the possibility to pay by debit or credit card. Implementation of Google GRPC services, a new way for generalize models layer as stantard for different platforms and language codes."
+    },
+    {
+      "name": "Linio",
+      "description": "Did the refactoring of an ecommerce app to change all UX and look & feel to improve the engagement with final customer and make impact on the use of the app, optimizing code to separate generic UI elements to another framework in order to separate business logic from UI by using MVVM architecture."
+    },
+    {
+      "name": "Tigo",
+      "description": "Worked on an app for telephony industry that provides better architectural solutions by doing refactoring on legacy code, as well as updating and stabilizing customer’s apps that are already on the market."
+    }
+  ],
+  "experience": [
+    {
+      "logoURL": "https://media.licdn.com/dms/image/C4D0BAQF7BcRdn5J66A/company-logo_400_400/0?e=1565827200&v=beta&t=pDgbEpN_TYOanxvooRf1GNPQNI6YRq8D_DvTEdl7uvU",
+      "company": "Nearsoft",
+      "position": "Snr. iOS Engineer",
+      "period": "September 2018 – Present",
+      "description": "Collaborating with Big Nerd Ranch company that work for U.S. companies doing consultancy and programming languages training. Currently working for General Electric application that controls and automatize lights from your house or environment by BLE technology."
+    },
+    {
+      "logoURL": "https://media.licdn.com/dms/image/C4E0BAQHpSeVo79etgQ/company-logo_400_400/0?e=1565827200&v=beta&t=lgXy5tI5GO8aBX-EUxiyN0rkHgOaDS9hwNiOoFgKG4w",
+      "company": "Nekso",
+      "position": "iOS Freelance Developer",
+      "period": "May 2018 – September 2018",
+      "description": "Building from scratch an street hailing app for The National Movement of taxi drivers in Mexico City and  make rides with electronic payment. Responsible of proposal of architecture, development and enhancements to UX."
+    },
+    {
+      "logoURL": "https://media.licdn.com/dms/image/C4D0BAQGrfnYNdsVoXw/company-logo_400_400/0?e=1565827200&v=beta&t=_GrgUzP6xBZGFFRKJG2UlqFL1FuxJvehiROAREKvKz4",
+      "company": "Linio Group",
+      "position": "Snr. iOS Engineer",
+      "period": "October 2017 – May 2018",
+      "description": "Collaboration in the redesign of the architecture and UX of an ecommerce app used by millions of users around Latin America. Enhancements to the engagement for purchasing into the app by applying new SDKs to take a better control of promotions."
+    },
+    {
+      "logoURL": "https://media.licdn.com/dms/image/C4E0BAQEyRlrQPqbyMw/company-logo_400_400/0?e=1565827200&v=beta&t=vymKJtT3jKEdayjNP0UkaxMU1uJQ98CTRmmH2PyzMEQ",
+      "company": "Globant",
+      "position": "SSr. iOS, SSr. Adv. iOS",
+      "period": "November 2014 – October 2017",
+      "description": "Collaborated in projects based on iOS 7.0 - 11.0 for companies dedicated to classifieds around the world, maintenance and improvements on current versions. New implementations for top Up sale points for customers in Latin America. Collaboration on internal demos in order to solve  problems that exist on society."
+    },
+    {
+      "logoURL": "https://media.licdn.com/dms/image/C4D0BAQFeLA4RxjqNTg/company-logo_400_400/0?e=1565827200&v=beta&t=NpCBNujMRXrfTsc__1wpk4KB6EJfwSSVszi9rBsp26A",
+      "company": "grupo Salinas",
+      "position": "Frontend Developer",
+      "period": "March 2014 – November 2014",
+      "description": "Created functions in .NET for consuming Web services with SOAP architecture for communication of the information flow of customers registered in the system for money transfers with POS interfaces. Implementation of new modules for the payment’s pension of retirees and improvements to the payment system in security."
+    },
+    {
+      "logoURL": "https://media.licdn.com/dms/image/C4D0BAQHIZewOmkNvZg/company-logo_400_400/0?e=1565827200&v=beta&t=qZkU7qLgQCHxZrkQgquWQIar-IwRM-CN6xC8GdhPifE",
+      "company": "Deloitte",
+      "position": "SAP Mobile Consultant",
+      "period": "March 2012 – January 2014",
+      "description": "Designed and implemented mobile applications for Windows Mobile, blackberry, Android and iOS for the company Grupo Modelo in the areas of monitoring sales, logistics of travel and operational control of the breweries."
+    }
+  ]
+}
